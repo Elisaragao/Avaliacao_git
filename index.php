@@ -9,5 +9,11 @@
 <body>
     <h1> Elisângela Aragão e Maria Eduarda Nascimento </h1>
     <img src="img/pizza.webp">
+
+    <form action="cadastros.php">
+        <div class="botao">
+            <input type="submit" value="Redirecionar">
+        </div>  
+    </form>
 </body>
 </html>
