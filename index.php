@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
     <h1> Elisângela Aragão e Maria Eduarda Nascimento </h1>
-    
+    <img src="img/pizza.webp">
 </body>
 </html>
